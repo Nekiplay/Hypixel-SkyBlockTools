@@ -1,6 +1,6 @@
-# Meteor Addon Template
+# Meteor Addon For Hypixel SkyBlock
 
-A template to allow easy usage of the Meteor Addon API.
+n addon for Meteor client that adds many features for Hypixel SkyBlock.
 
 ### How to use:  
 - Clone this project
